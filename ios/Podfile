@@ -1,0 +1,24 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '9.0'
+source 'https://gitee.com/layer_james/XLSpecs.git'
+source 'https://github.com/CocoaPods/Specs.git'
+target 'IndexDemo' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+
+  # Pods for IndexDemo
+  pod 'LJShareComponent'
+
+  target 'IndexDemo-tvOSTests' do
+    inherit! :search_paths
+    # Pods for testing
+    pod 'RNViewShot', :path => '../node_modules/react-native-view-shot'
+
+  end
+
+  target 'IndexDemoTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end

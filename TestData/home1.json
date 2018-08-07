@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "房卡123",
+      "column_url": "http://upload.s.vidahouse.com/FgMw2dLfy2Ml2mUyodXI8_pxJ7xZ?imageMogr2/crop/!1822.7848101265824x729.1139240506329a48.607594936708864a174.9873417721519/thumbnail/!750x300r",
+      "start_time": 149559840340,
+      "end_time": 1496203200322,
+      "arr": [
+        {
+          "id": 1,
+          "total": 52,
+          "name": "剩余(张)",
+          "detail": "即将上线",
+          "created_at": 0
+        },
+        {
+          "id": 1,
+          "total": 58,
+          "name": "今日已售(张)",
+          "detail": "即将上线",
+          "created_at": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "房卡返利123",
+    
+      "column_url": "http://upload.s.vidahouse.com/Fpm7ElJmma6nHU_isG7RgIUcR-Xe?imageMogr2/crop/!1367.0886075949368x546.8354430379746a36.45569620253164a174.9873417721519/thumbnail/!750x300r",
+      "start_time": 1494907200430,
+      "end_time": 1495512003200,
+      "arr": [
+        {
+          "id": 1,
+          "total": 522,
+          "name": "昨日收益",
+          "detail": "即将上线",
+          "created_at": 0
+        },
+        {
+          "id": 1,
+          "total": 100240,
+          "name": "累计收益",
+          "detail": "即将上线",
+          "created_at": 0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "钻石返利233",
+      "column_url": "http://upload.s.vidahouse.com/FgMw2dLfy2Ml2mUyodXI8_pxJ7xZ?imageMogr2/crop/!1822.7848101265824x729.1139240506329a48.607594936708864a174.9873417721519/thumbnail/!750x300r",
+      "start_time": 1494907200000,
+      "end_time": 1496894400000,
+      "arr": [
+        {
+          "id": 1,
+          "total": 5039,
+          "name": "昨日收益(元)",
+          "detail": "即将上线",
+          "created_at": 0
+        },
+        {
+          "id": 1,
+          "total": 2459,
+          "name": "上月收益(元)",
+          "detail": "即将上线",
+          "created_at": 0
+        },
+        {
+          "id": 1,
+          "total": 10000,
+          "name": "我的玩家(人)",
+          "detail": "即将上线",
+          "created_at": 0
+        }
+      ]
+    },
+     {
+      "id": 7,
+      "title": "赚多多",
+      "column_url": "http://upload.s.vidahouse.com/FgMw2dLfy2Ml2mUyodXI8_pxJ7xZ?imageMogr2/crop/!1822.7848101265824x729.1139240506329a48.607594936708864a174.9873417721519/thumbnail/!750x300r",
+      "start_time": 1494907200000,
+      "end_time": 1496894400000,
+       "arr": [
+         {
+           "id": 1,
+           "total": 5010,
+           "name": "昨日收益(元)",
+           "detail": "即将上线",
+           "created_at": 0
+         },
+         {
+           "id": 1,
+           "total": 1050,
+           "name": "历史收益(元)",
+           "detail": "即将上线",
+           "created_at": 0
+         },
+         {
+           "id": 1,
+           "total": 200,
+           "name": "未确认收益(元)",
+           "detail": "即将上线",
+           "created_at": 0
+         }
+       ]
+    },
+    {
+      "id": 9,
+      "title": "工具箱",
+      "column_url": "http://upload.s.vidahouse.com/FgMw2dLfy2Ml2mUyodXI8_pxJ7xZ?imageMogr2/crop/!1822.7848101265824x729.1139240506329a48.607594936708864a174.9873417721519/thumbnail/!750x300r",
+      "start_time": 1495598400000,
+      "end_time": 1695598400000,
+      "arr": [
+        {
+          "id": 1,
+          "total": 5010,
+          "name": "公告及帮助",
+          "detail": "最新消息都在这",
+          "created_at": 0
+        },
+        {
+          "id": 1,
+          "total": 1050,
+          "name": "我的代理",
+          "detail": "下级代理管理",
+          "created_at": 0
+        }
+
+      ]
+    },
+    {
+      "id": 11,
+      "title": "工具箱",
+      "column_url": "http://upload.s.vidahouse.com/FgMw2dLfy2Ml2mUyodXI8_pxJ7xZ?imageMogr2/crop/!1822.7848101265824x729.1139240506329a48.607594936708864a174.9873417721519/thumbnail/!750x300r",
+      "start_time": 1495598400000,
+      "end_time": 1695598400000,
+      "arr": [
+        {
+          "id": 1,
+          "total": 5010,
+          "name": "我的邀请",
+          "detail": "已绑定的客户列表",
+          "created_at": 0
+        },
+        {
+          "id": 1,
+          "total": 1050,
+          "name": "比赛场管理",
+          "detail": "即将上线",
+          "created_at": 0
+        }
+      ]
+    }
+  ]
+}
